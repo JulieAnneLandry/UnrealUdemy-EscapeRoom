@@ -1,0 +1,22 @@
+# Unreal Generated Files
+########################
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate/
+*/Saved
+EscapeRoom/Content/StarterContent/
+
+# Plans
+#######
+idees_puzzle.txt
+plan_sous-sol.jpg
+GameDesignDocument.docx
+Ressources/
+
+# Visual Studio Generated Files
+###############################
+*.db
+*.opendb
+*.db-shm
+*.db-wal
