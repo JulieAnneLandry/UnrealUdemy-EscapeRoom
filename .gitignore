@@ -20,3 +20,4 @@ Ressources/
 *.opendb
 *.db-shm
 *.db-wal
+*.ipch
